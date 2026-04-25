@@ -25,7 +25,6 @@
     }
     .navbar.scrolled { box-shadow: 0 4px 30px rgba(0,180,216,0.15); }
     .navbar-brand { font-family: 'Tajawal', sans-serif; font-weight: 900; font-size: 1.45rem; color: var(--accent) !important; }
-    .navbar-brand span { color: var(--accent2); }
     .nav-link { color: var(--text-light) !important; font-weight: 600; font-size: 0.93rem; padding: 7px 15px !important; position: relative; transition: color 0.3s; }
     .nav-link::after { content: ''; position: absolute; bottom: 2px; right: 15px; width: 0; height: 2px; background: var(--accent); transition: width 0.3s; }
     .nav-link:hover { color: var(--accent) !important; }
